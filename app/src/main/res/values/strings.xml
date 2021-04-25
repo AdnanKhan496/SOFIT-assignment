@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SOFIT assignment</string>
+
+    <string name="apiErrorMessage">Sorry! Pl try again</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorites</string>
+
+    <string name="byName">By Name</string>
+    <string name="byAlphabet">By First Alphabet</string>
+
+    <string name="notificationMessage">Need some drinks open app now.</string>
+    <string name="descriptionMessage">Need some drinks open app now.</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="todo">TODO</string>
+    <string name="drinks_recipes">Drinks Recipes</string>
+    <string name="margarita">Margarita</string>
+
+</resources>

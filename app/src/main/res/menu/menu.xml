@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/home"
+        android:icon="@drawable/icon_home"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/favoritesFragment"
+        android:title="@string/fav"
+        android:icon="@drawable/icon_star_bottom_nav"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"/>
+</menu>

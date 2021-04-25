@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5ea1af</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#5ea1af</color>
+
+    <color name="yellow_star">#FFca3b</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightgreen">#F4f8f9</color>
+    <color name="grey">#eaeaea</color>
+    <color name="grey1">#a6a6a6</color>
+</resources>
